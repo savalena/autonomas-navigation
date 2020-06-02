@@ -2,6 +2,7 @@
 Thesis project on autonomas indoor navigation of 3-wheels robot
 
 Hardware used: Raspberry PI 4, Asus Xtion PRO Live, gyro G-521
+
 Software used: Lubuntu 16.04 (compiled with ROS kinetic), ROS Kinetic
 
 For running abstacles avoidance algorithm:
