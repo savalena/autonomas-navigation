@@ -1,0 +1,6 @@
+<launch>
+
+	<node name="gyro" pkg="imu" type="mpu6050_gyro.py"/>
+	<node name="filter" pkg="imu" type="filter.py"/>
+
+</launch>
